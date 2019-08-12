@@ -2,7 +2,7 @@
 
 # angular-8-Id-Card Creating App
 
-To see a demo and further details go to https://demo.ekisempire.com.ng
+To see a demo and further details go to https://ekisempire.com.ng
 STEPS TO DEPLOY
 1.  Download The App
 2.  In Your Command Line, Navigate to the root folder and type npm install
