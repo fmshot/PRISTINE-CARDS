@@ -1,5 +1,10 @@
-# angular-8-jwt-authentication-example
+# angular-8-Id-Card Creating App
 
-Angular 8 - JWT Authentication Example with the Angular CLI
+# angular-8-Id-Card Creating App
 
-To see a demo and further details go to https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial
+To see a demo and further details go to https://demo.ekisempire.com.ng
+STEPS TO DEPLOY
+1.  Download The App
+2.  In Your Command Line, Navigate to the root folder and type npm install
+3.  After all installations are complete, serve the application with ithe instruction, ng serve
+4.  After serving, navigate to your browser, type localhost:4200 to view the pages!
